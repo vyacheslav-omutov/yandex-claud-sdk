@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3446470D-882F-45DC-AD26-FEFB93E6368F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yandex.ID", "src\Yandex.ID.csproj", "{7CB2D19C-B77C-4AE7-81B3-D10B2F85F00F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CB2D19C-B77C-4AE7-81B3-D10B2F85F00F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CB2D19C-B77C-4AE7-81B3-D10B2F85F00F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CB2D19C-B77C-4AE7-81B3-D10B2F85F00F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CB2D19C-B77C-4AE7-81B3-D10B2F85F00F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7CB2D19C-B77C-4AE7-81B3-D10B2F85F00F} = {3446470D-882F-45DC-AD26-FEFB93E6368F}
+	EndGlobalSection
+EndGlobal
